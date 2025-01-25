@@ -1,4 +1,4 @@
-# Pudgy Penguins Airdrop Checker
+# Pudgy Penguins Bulk Airdrop Checker EVM+SOL
 
 A tool to check airdrop eligibility for Pudgy Penguins across both EVM and Solana chains.
 
